@@ -1,1 +1,2 @@
 # Fake_News_Detection_project
+This project focuses on developing a machine learning-based system to detect fake news using logistic regression. The model is trained on a labeled dataset containing real and fake news articles, analyzing features like word patterns, sentiment, and source credibility. A user-friendly interface (UI) is designed to allow users to input news articles or URLs and receive an instant prediction on the article's authenticity. The system aims to help combat misinformation by providing a simple and effective tool for verifying news sources.
